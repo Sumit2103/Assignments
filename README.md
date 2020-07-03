@@ -1,2 +1,2 @@
 # Assignments
-iNeuron Assignment Day 1
+iNeuron Assignments
